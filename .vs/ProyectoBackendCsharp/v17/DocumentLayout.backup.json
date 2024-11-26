@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\ProyectoBackendCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5476F3C9-4B82-42A6-918E-0EA7601D6A0C}|ProyectoBackendCsharp.csproj|d:\\c#\\proyectobackendcsharp\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5476F3C9-4B82-42A6-918E-0EA7601D6A0C}|ProyectoBackendCsharp.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5476F3C9-4B82-42A6-918E-0EA7601D6A0C}|ProyectoBackendCsharp.csproj|d:\\c#\\proyectobackendcsharp\\models\\entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5476F3C9-4B82-42A6-918E-0EA7601D6A0C}|ProyectoBackendCsharp.csproj|solutionrelative:models\\entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5476F3C9-4B82-42A6-918E-0EA7601D6A0C}|ProyectoBackendCsharp.csproj|d:\\c#\\proyectobackendcsharp\\services\\rutarolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5476F3C9-4B82-42A6-918E-0EA7601D6A0C}|ProyectoBackendCsharp.csproj|solutionrelative:services\\rutarolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5476F3C9-4B82-42A6-918E-0EA7601D6A0C}|ProyectoBackendCsharp.csproj|d:\\c#\\proyectobackendcsharp\\services\\controlconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5476F3C9-4B82-42A6-918E-0EA7601D6A0C}|ProyectoBackendCsharp.csproj|solutionrelative:services\\controlconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5476F3C9-4B82-42A6-918E-0EA7601D6A0C}|ProyectoBackendCsharp.csproj|d:\\c#\\proyectobackendcsharp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5476F3C9-4B82-42A6-918E-0EA7601D6A0C}|ProyectoBackendCsharp.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5476F3C9-4B82-42A6-918E-0EA7601D6A0C}|ProyectoBackendCsharp.csproj|d:\\c#\\proyectobackendcsharp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5476F3C9-4B82-42A6-918E-0EA7601D6A0C}|ProyectoBackendCsharp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5476F3C9-4B82-42A6-918E-0EA7601D6A0C}|ProyectoBackendCsharp.csproj|d:\\c#\\proyectobackendcsharp\\proyectobackendcsharp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5476F3C9-4B82-42A6-918E-0EA7601D6A0C}|ProyectoBackendCsharp.csproj|solutionrelative:proyectobackendcsharp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5476F3C9-4B82-42A6-918E-0EA7601D6A0C}|ProyectoBackendCsharp.csproj|d:\\c#\\proyectobackendcsharp\\controllers\\entidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5476F3C9-4B82-42A6-918E-0EA7601D6A0C}|ProyectoBackendCsharp.csproj|solutionrelative:controllers\\entidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\c#\\ProyectoBackendCsharp\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "D:\\c#\\ProyectoBackendCsharp\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:40:49.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entidad.cs",
+              "DocumentMoniker": "D:\\c#\\ProyectoBackendCsharp\\Models\\Entidad.cs",
+              "RelativeDocumentMoniker": "Models\\Entidad.cs",
+              "ToolTip": "D:\\c#\\ProyectoBackendCsharp\\Models\\Entidad.cs",
+              "RelativeToolTip": "Models\\Entidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:40:48.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\c#\\ProyectoBackendCsharp\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "D:\\c#\\ProyectoBackendCsharp\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:40:36.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RutaRolService.cs",
+              "DocumentMoniker": "D:\\c#\\ProyectoBackendCsharp\\Services\\RutaRolService.cs",
+              "RelativeDocumentMoniker": "Services\\RutaRolService.cs",
+              "ToolTip": "D:\\c#\\ProyectoBackendCsharp\\Services\\RutaRolService.cs",
+              "RelativeToolTip": "Services\\RutaRolService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:40:25.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControlConexion.cs",
+              "DocumentMoniker": "D:\\c#\\ProyectoBackendCsharp\\Services\\ControlConexion.cs",
+              "RelativeDocumentMoniker": "Services\\ControlConexion.cs",
+              "ToolTip": "D:\\c#\\ProyectoBackendCsharp\\Services\\ControlConexion.cs",
+              "RelativeToolTip": "Services\\ControlConexion.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:40:20.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c#\\ProyectoBackendCsharp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\c#\\ProyectoBackendCsharp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T16:39:20.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProyectoBackendCsharp.http",
+              "DocumentMoniker": "D:\\c#\\ProyectoBackendCsharp\\ProyectoBackendCsharp.http",
+              "RelativeDocumentMoniker": "ProyectoBackendCsharp.http",
+              "ToolTip": "D:\\c#\\ProyectoBackendCsharp\\ProyectoBackendCsharp.http",
+              "RelativeToolTip": "ProyectoBackendCsharp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-26T16:39:17.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntidadesController.cs",
+              "DocumentMoniker": "D:\\c#\\ProyectoBackendCsharp\\Controllers\\EntidadesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EntidadesController.cs",
+              "ToolTip": "D:\\c#\\ProyectoBackendCsharp\\Controllers\\EntidadesController.cs",
+              "RelativeToolTip": "Controllers\\EntidadesController.cs",
+              "ViewState": "AgIAAGkCAAAAAAAAAAAwwLkCAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:08:44.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

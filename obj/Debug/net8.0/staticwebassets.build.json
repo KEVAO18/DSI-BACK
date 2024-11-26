@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "hqq/iWDPstW74sEhi8FRXP3Tn5RtH+MoOvLP3p9hUjQ=",
+  "Source": "ProyectoBackendCsharp",
+  "BasePath": "_content/ProyectoBackendCsharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProyectoBackendCsharp\\wwwroot",
+      "Source": "ProyectoBackendCsharp",
+      "ContentRoot": "D:\\c#\\ProyectoBackendCsharp\\wwwroot\\",
+      "BasePath": "_content/ProyectoBackendCsharp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
